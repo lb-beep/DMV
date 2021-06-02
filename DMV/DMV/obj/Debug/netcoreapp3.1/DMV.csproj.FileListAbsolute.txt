@@ -1,0 +1,12 @@
+/Users/antonio/Desktop/CS133 Project/DMV/DMV/obj/Debug/netcoreapp3.1/DMV.csprojAssemblyReference.cache
+/Users/antonio/Desktop/CS133 Project/DMV/DMV/obj/Debug/netcoreapp3.1/DMV.AssemblyInfoInputs.cache
+/Users/antonio/Desktop/CS133 Project/DMV/DMV/obj/Debug/netcoreapp3.1/DMV.AssemblyInfo.cs
+/Users/antonio/Desktop/CS133 Project/DMV/DMV/obj/Debug/netcoreapp3.1/DMV.csproj.CoreCompileInputs.cache
+/Users/antonio/Desktop/CS133 Project/DMV/DMV/bin/Debug/netcoreapp3.1/DMV.deps.json
+/Users/antonio/Desktop/CS133 Project/DMV/DMV/bin/Debug/netcoreapp3.1/DMV.runtimeconfig.json
+/Users/antonio/Desktop/CS133 Project/DMV/DMV/bin/Debug/netcoreapp3.1/DMV.runtimeconfig.dev.json
+/Users/antonio/Desktop/CS133 Project/DMV/DMV/bin/Debug/netcoreapp3.1/DMV.dll
+/Users/antonio/Desktop/CS133 Project/DMV/DMV/bin/Debug/netcoreapp3.1/DMV.pdb
+/Users/antonio/Desktop/CS133 Project/DMV/DMV/obj/Debug/netcoreapp3.1/DMV.dll
+/Users/antonio/Desktop/CS133 Project/DMV/DMV/obj/Debug/netcoreapp3.1/DMV.pdb
+/Users/antonio/Desktop/CS133 Project/DMV/DMV/obj/Debug/netcoreapp3.1/DMV.genruntimeconfig.cache
